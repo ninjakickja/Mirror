@@ -1,6 +1,7 @@
 {
     "name": "Mirror.Tests",
     "references": [
+        "Unity.Burst",
         "Unity.Collections",
         "Mirror",
         "Mirror.Editor",
