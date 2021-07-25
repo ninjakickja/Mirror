@@ -1,6 +1,7 @@
 {
     "name": "Mirror.Tests",
     "references": [
+        "Unity.Collections",
         "Mirror",
         "Mirror.Editor",
         "Mirror.Weaver",
